@@ -20,8 +20,10 @@
 
 您可以使用以下方式阅读：
 
-- [在线阅读](https://jimmysong.io/opentelemetry-obervability)
+- [在线阅读](https://jimmysong.io/opentelemetry-obervability)（建议）
 - [下载 PDF](https://github.com/rootsongjc/opentelemetry-obervability/)
+
+注：PDF 非实时编译，内容可能落后于在线版本，建议在线阅读。
 
 ## 关于作者
 
