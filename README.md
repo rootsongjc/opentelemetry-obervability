@@ -1,12 +1,9 @@
+**本仓库已停止维护，内容迁移至[云原生资料库](https://github.com/rootsongjc/docs)，请转至[新页面](https://jimmysong.io/docs/opentelemetry-obervability/)浏览**。
+
 # OpenTelemetry 可观测性的未来
 
 本报告译自 O'Reilly 出品的 [The Future of Observablity with OpeTelemetry](https://www.oreilly.com/library/view/the-future-of/9781098118433/)，作者 Ted Young，译者 [Jimmy Song](https://jimmysong.io)。
 
-<div align="center">
-  <a href="https://jimmysong.io/opentelemetry-obervability/">
-    <img src="cover-thumbnail.jpg" title="《OpenTelemetry 可观测性的未来》报告封面" alt="《OpenTelemetry 可观测性的未来》报告封面">
-  </a>
-</div>
 
 ## 关于本书
 
@@ -15,15 +12,6 @@
 - OpenTelemetry 如何满足库作者、应用程序拥有者、运维和响应者的需求
 - 应用程序的不同角色如何围绕 OpenTelemetry 来协同和独立工作
 - 关于在组织中采用和管理 OpenTelemetry 的实用建议
-
-## 如何阅读本书
-
-您可以使用以下方式阅读：
-
-- [在线阅读](https://jimmysong.io/opentelemetry-obervability)（建议）
-- [下载 PDF](https://github.com/rootsongjc/opentelemetry-obervability/)
-
-注：PDF 非实时编译，内容可能落后于在线版本，建议在线阅读。
 
 ## 关于作者
 
