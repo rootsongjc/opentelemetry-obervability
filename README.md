@@ -1,4 +1,4 @@
-**本仓库已停止维护，内容迁移至[云原生资料库](https://github.com/rootsongjc/docs)，请转至[新页面](https://jimmysong.io/docs/opentelemetry-obervability/)浏览**。
+**本仓库已停止维护，内容迁移至[云原生资料库](https://github.com/rootsongjc/docs)，请转至[新页面](https://lib.jimmysong.io/opentelemetry-obervability/)浏览**。
 
 # OpenTelemetry 可观测性的未来
 
